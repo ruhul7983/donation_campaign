@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.postimg.cc/kgtgqKQ2/Health.png",
+    "title": "Healthcare for All",
+    "category": "Health",
+    "category_bg": "#76a2ff",
+    "card_bg": "#b8cfff",
+    "text_button_bg": "#0052FF",
+    "description": "Support our efforts to provide essential healthcare services to underserved populations. Your donation will help fund medical treatments, vaccinations, and health education. Together, we can improve the well-being of countless individuals.",
+    "price": 75.00
+  },
+  {
+    "id": 2,
+    "picture": "https://i.postimg.cc/KYSvzjfJ/Food.png",
+    "title": "Mental Health Awareness",
+    "category": "Health",
+    "category_bg": "#76a2ff",
+    "card_bg": "#b8cfff",
+    "text_button_bg": "#0052FF",
+    "description": "Help us raise awareness and provide support for mental health initiatives. Your contribution will fund counseling services, support groups, and educational programs. Together, we can break the stigma around mental health.",
+    "price": 15.00
+  },
+  {
+    "id": 3,
+    "picture": "https://i.postimg.cc/RhsZVTpH/Clothing.png",
+    "title": "Support Refugees",
+    "category": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#ebf6e2",
+    "text_button_bg": "#79c23f",
+    "description": "Donate to support refugees and provide them with essential resources and services, including clothing. Your help ensures that refugees receive proper attire for all seasons. Let's offer them comfort and dignity during their difficult journey.",
+    "price": 35.00
+  },
+  {
+    "id": 4,
+    "picture": "https://i.postimg.cc/RhsZVTpH/Clothing.png",
+    "title": "Warm Clothes for Winter",
+    "category": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#ebf6e2",
+    "text_button_bg": "#79c23f",
+    "description": "Help us provide warm clothes to those in need during the cold winter months. Your donation will supply coats, gloves, and scarves to families struggling to stay warm. Together, we can make a difference in their lives this winter.",
+    "price": 20.00
+  },
+  {
+    "id": 5,
+    "picture": "https://i.postimg.cc/KYSvzjfJ/Food.png",
+    "title": "Feed the Hungry",
+    "category": "Food",
+    "category_bg": "#fcccbc",
+    "card_bg": "#feeae3",
+    "text_button_bg": "#f87147",
+    "description": "Join us in our mission to provide nutritious meals to those in need. Your support will help us deliver food supplies to hungry individuals and families. Together, we can fight hunger and bring hope to many.",
+    "price": 10.00
+  },
+  {
+    "id": 6,
+    "picture": "https://i.postimg.cc/KYSvzjfJ/Food.png",
+    "title": "Disaster Relief Food Aid",
+    "category": "Food",
+    "category_bg": "#fcccbc",
+    "card_bg": "#feeae3",
+    "text_button_bg": "#f87147",
+    "description": "Donate to provide emergency food supplies to disaster-stricken areas. Your contribution will ensure timely food delivery to affected communities. Together, we can help rebuild lives after natural disasters.",
+    "price": 50.00
+  },
+  {
+    "id": 7,
+    "picture": "https://i.postimg.cc/Nfnj3pHh/Education.png",
+    "title": "Education for All",
+    "category": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#ffe3e4",
+    "text_button_bg": "#ff484e",
+    "description": "Support our initiative to ensure access to quality education for children everywhere. Your donation will help build schools, provide learning materials, and train teachers. Together, we can create a brighter future through education.",
+    "price": 50.00
+  },
+  {
+    "id": 8,
+    "picture": "https://i.postimg.cc/Nfnj3pHh/Education.png",
+    "title": "Build a School",
+    "category": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#ffe3e4",
+    "text_button_bg": "#ff484e",
+    "description": "Help us build a school in an underprivileged community to provide better education opportunities. Your support will fund construction, supplies, and educational programs. Together, we can empower children through education.",
+    "price": 100.00
+  },
+  {
+    "id": 9,
+    "picture": "https://i.postimg.cc/RhsZVTpH/Clothing.png",
+    "title": "Medical Supplies for Clinics",
+    "category": "Health",
+    "category_bg": "#76a2ff",
+    "card_bg": "#b8cfff",
+    "text_button_bg": "#0052FF",
+    "description": "Support the purchase and distribution of essential medical supplies to clinics in need. Your donation will help provide medications, equipment, and other vital supplies. Together, we can improve healthcare access and outcomes.",
+    "price": 30.00
+  },
+  {
+    "id": 10,
+    "picture": "https://i.postimg.cc/KYSvzjfJ/Food.png",
+    "title": "Healthy Meals for Children",
+    "category": "Food",
+    "category_bg": "#fcccbc",
+    "card_bg": "#feeae3",
+    "text_button_bg": "#f87147",
+    "description": "Provide nutritious meals to children in impoverished areas to support their health and development. Your contribution will fund school meal programs and community kitchens. Together, we can nourish the future generation.",
+    "price": 25.00
+  },
+  {
+    "id": 11,
+    "picture": "https://i.postimg.cc/Nfnj3pHh/Education.png",
+    "title": "School Supplies for Students",
+    "category": "Education",
+    "category_bg": "#ffc3c5",
+    "card_bg": "#ffe3e4",
+    "text_button_bg": "#ff484e",
+    "description": "Help us provide essential school supplies to students who cannot afford them. Your donation will supply backpacks, notebooks, and writing materials. Together, we can ensure every child is equipped for success.",
+    "price": 15.00
+  },
+  {
+    "id": 12,
+    "picture": "https://i.postimg.cc/RhsZVTpH/Clothing.png",
+    "title": "Winter Coats for Kids",
+    "category": "Clothing",
+    "category_bg": "#d4ecc1",
+    "card_bg": "#ebf6e2",
+    "text_button_bg": "#79c23f",
+    "description": "Donate to provide warm winter coats to children in need. Your support will ensure that children stay warm and healthy during the cold months. Together, we can bring warmth and comfort to young lives.",
+    "price": 45.00
+  }
+]
